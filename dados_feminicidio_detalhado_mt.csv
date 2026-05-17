@@ -1,0 +1,497 @@
+﻿Ano,Cidade,Idade_Vitima,Faixa_Etaria,Meio_Utilizado,Raca_Cor,Crime
+2016,Cuiabá,23,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,24,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Cuiabá,18,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Barra do Garças,48,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,61,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2016,Sorriso,53,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2016,Cáceres,26,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,29,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,22,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2016,Primavera do Leste,18,15-24 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,40,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,55,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2016,Sinop,18,15-24 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,30,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,56,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Sorriso,29,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,26,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Sorriso,40,35-44 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2016,Cuiabá,65,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2016,Cáceres,36,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,52,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2016,Primavera do Leste,41,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,31,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2016,Barra do Garças,43,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,24,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,19,15-24 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2016,Cáceres,59,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Primavera do Leste,54,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,16,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,37,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2016,Cuiabá,45,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2016,Rondonópolis,64,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,35,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Rondonópolis,64,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Cuiabá,47,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2016,Sinop,35,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,52,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,20,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Lucas do Rio Verde,46,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Cáceres,54,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2016,Sinop,64,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,58,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,44,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Cuiabá,37,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Várzea Grande,16,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Tangará da Serra,18,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2016,Primavera do Leste,33,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2016,Barra do Garças,62,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Sinop,42,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Tangará da Serra,43,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Cuiabá,62,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Tangará da Serra,62,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,28,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Sorriso,27,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Primavera do Leste,20,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Cuiabá,50,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2017,Rondonópolis,31,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Cáceres,29,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Cáceres,16,15-24 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2017,Sorriso,45,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,62,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Sinop,34,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Cuiabá,50,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2017,Primavera do Leste,53,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2017,Várzea Grande,48,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2017,Sinop,20,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Sinop,52,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2017,Barra do Garças,42,35-44 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2017,Tangará da Serra,29,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2017,Sorriso,24,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Várzea Grande,64,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Várzea Grande,52,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Sorriso,48,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2017,Sinop,20,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,44,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,57,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2017,Sorriso,51,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2017,Sorriso,24,15-24 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,63,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2017,Sinop,54,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2017,Sorriso,56,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2017,Várzea Grande,19,15-24 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2017,Cuiabá,18,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2017,Sorriso,56,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2017,Cáceres,51,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2017,Rondonópolis,60,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2017,Lucas do Rio Verde,53,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2017,Sorriso,18,15-24 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2017,Tangará da Serra,18,15-24 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2017,Várzea Grande,58,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2017,Barra do Garças,42,35-44 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2017,Rondonópolis,31,25-34 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2017,Rondonópolis,17,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Sinop,58,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Várzea Grande,60,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2018,Sinop,46,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2018,Tangará da Serra,45,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Sinop,30,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2018,Tangará da Serra,41,35-44 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2018,Sorriso,65,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Lucas do Rio Verde,41,35-44 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2018,Sorriso,23,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2018,Cuiabá,32,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2018,Tangará da Serra,38,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2018,Várzea Grande,48,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2018,Sorriso,28,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2018,Lucas do Rio Verde,16,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2018,Tangará da Serra,20,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Sorriso,23,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Cáceres,36,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Cáceres,28,25-34 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,27,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Sorriso,16,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,53,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Sinop,44,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2018,Rondonópolis,63,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,58,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Sinop,64,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Rondonópolis,28,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,46,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,56,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2018,Primavera do Leste,40,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2018,Cuiabá,57,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2018,Rondonópolis,30,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2018,Várzea Grande,31,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2018,Lucas do Rio Verde,45,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2018,Barra do Garças,44,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2018,Primavera do Leste,51,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2018,Primavera do Leste,46,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2018,Sorriso,56,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2018,Primavera do Leste,33,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2018,Sorriso,31,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2018,Várzea Grande,50,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2018,Rondonópolis,40,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2018,Tangará da Serra,42,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2018,Cáceres,29,25-34 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2018,Cuiabá,53,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Cáceres,35,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Lucas do Rio Verde,63,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Cáceres,33,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Cáceres,37,35-44 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2019,Barra do Garças,24,15-24 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2019,Barra do Garças,53,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2019,Rondonópolis,43,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Cáceres,32,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,36,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,42,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2019,Lucas do Rio Verde,63,45+ anos,Arma Branca,Indígena,FEMINICÍDIO CONSUMADO
+2019,Sinop,38,35-44 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2019,Cuiabá,57,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2019,Cuiabá,28,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Várzea Grande,46,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,32,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2019,Várzea Grande,63,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2019,Barra do Garças,22,15-24 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2019,Cáceres,52,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2019,Várzea Grande,28,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,65,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2019,Cuiabá,52,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,58,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2019,Cuiabá,37,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2019,Cáceres,22,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2019,Rondonópolis,45,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,49,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Barra do Garças,62,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Várzea Grande,31,25-34 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2019,Primavera do Leste,31,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,47,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,38,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,54,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2019,Várzea Grande,28,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2019,Lucas do Rio Verde,47,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2019,Primavera do Leste,57,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2019,Sorriso,21,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2019,Sorriso,31,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,49,45+ anos,Asfixia,Indígena,FEMINICÍDIO CONSUMADO
+2019,Tangará da Serra,51,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2019,Sorriso,33,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Sinop,62,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2019,Rondonópolis,50,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Barra do Garças,33,25-34 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2020,Sorriso,28,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Cuiabá,35,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Lucas do Rio Verde,19,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2020,Primavera do Leste,24,15-24 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2020,Sorriso,52,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Rondonópolis,37,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Várzea Grande,46,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Barra do Garças,20,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,52,45+ anos,Arma Branca,Indígena,FEMINICÍDIO CONSUMADO
+2020,Lucas do Rio Verde,23,15-24 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2020,Sinop,55,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,44,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Cuiabá,55,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2020,Sinop,29,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2020,Sinop,26,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Cuiabá,26,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Primavera do Leste,54,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,34,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,30,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Sinop,50,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2020,Várzea Grande,25,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Barra do Garças,35,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,45,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2020,Lucas do Rio Verde,48,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Cuiabá,54,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2020,Sorriso,54,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Barra do Garças,59,45+ anos,Arma Branca,Indígena,FEMINICÍDIO CONSUMADO
+2020,Sorriso,59,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2020,Primavera do Leste,27,25-34 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2020,Barra do Garças,27,25-34 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2020,Várzea Grande,47,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Tangará da Serra,37,35-44 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2020,Cáceres,37,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Lucas do Rio Verde,41,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,36,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2020,Cáceres,65,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2020,Primavera do Leste,50,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Tangará da Serra,49,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2020,Cuiabá,64,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Sorriso,24,15-24 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2020,Várzea Grande,47,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2020,Sinop,54,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2020,Lucas do Rio Verde,16,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2020,Primavera do Leste,23,15-24 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2021,Sorriso,47,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2021,Primavera do Leste,46,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Cáceres,25,25-34 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2021,Rondonópolis,48,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2021,Tangará da Serra,42,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2021,Sorriso,34,25-34 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2021,Lucas do Rio Verde,44,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2021,Lucas do Rio Verde,51,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2021,Sinop,36,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Cáceres,30,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2021,Cáceres,46,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2021,Rondonópolis,57,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2021,Lucas do Rio Verde,24,15-24 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2021,Várzea Grande,44,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2021,Cáceres,25,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Tangará da Serra,32,25-34 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2021,Lucas do Rio Verde,37,35-44 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2021,Primavera do Leste,56,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2021,Sorriso,31,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2021,Várzea Grande,43,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2021,Sorriso,60,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2021,Sorriso,19,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2021,Sinop,25,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2021,Rondonópolis,27,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Barra do Garças,40,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Rondonópolis,53,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Primavera do Leste,32,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2021,Sorriso,45,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2021,Barra do Garças,38,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2021,Sorriso,43,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2021,Cáceres,28,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2021,Barra do Garças,40,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2021,Sorriso,60,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2021,Cáceres,58,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2021,Cuiabá,59,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2021,Sinop,34,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2021,Barra do Garças,28,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2021,Rondonópolis,62,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2021,Cuiabá,57,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2021,Barra do Garças,18,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,34,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2022,Lucas do Rio Verde,24,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Rondonópolis,33,25-34 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2022,Sorriso,46,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,45,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2022,Cáceres,30,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,41,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,45,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,56,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,46,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,30,25-34 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2022,Cáceres,35,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2022,Sorriso,18,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2022,Lucas do Rio Verde,31,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2022,Lucas do Rio Verde,39,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2022,Rondonópolis,62,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2022,Barra do Garças,47,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,33,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Sinop,44,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,59,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Sinop,33,25-34 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,45,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,54,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2022,Rondonópolis,31,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2022,Lucas do Rio Verde,64,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,30,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,54,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2022,Rondonópolis,25,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,23,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2022,Barra do Garças,31,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,32,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,49,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2022,Tangará da Serra,65,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2022,Barra do Garças,30,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2022,Lucas do Rio Verde,58,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2022,Cuiabá,17,15-24 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,43,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,44,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2022,Várzea Grande,25,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Lucas do Rio Verde,53,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Lucas do Rio Verde,54,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Cáceres,54,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2023,Lucas do Rio Verde,23,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Cáceres,30,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2023,Cáceres,41,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Sorriso,36,35-44 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2023,Primavera do Leste,59,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Várzea Grande,21,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,63,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Lucas do Rio Verde,53,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,42,35-44 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,62,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2023,Várzea Grande,38,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Sinop,46,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,51,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2023,Sinop,52,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2023,Barra do Garças,65,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2023,Sorriso,58,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Sorriso,60,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Rondonópolis,27,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,63,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2023,Cáceres,29,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,26,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2023,Barra do Garças,65,45+ anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2023,Rondonópolis,25,25-34 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2023,Primavera do Leste,33,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Cáceres,44,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Várzea Grande,48,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Barra do Garças,34,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,35,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,54,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Rondonópolis,29,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,23,15-24 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2023,Rondonópolis,27,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Lucas do Rio Verde,30,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Cuiabá,63,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,20,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Cáceres,61,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,17,15-24 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2023,Primavera do Leste,55,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2023,Sinop,22,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2023,Várzea Grande,49,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,63,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Várzea Grande,26,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2023,Tangará da Serra,28,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2023,Rondonópolis,57,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2023,Sinop,32,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2024,Várzea Grande,64,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,56,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,64,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,52,45+ anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2024,Tangará da Serra,56,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,46,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2024,Cuiabá,53,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,35,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2024,Sorriso,39,35-44 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,21,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2024,Cuiabá,51,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2024,Sinop,52,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,48,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2024,Várzea Grande,37,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,61,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,55,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Cáceres,34,25-34 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,59,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2024,Tangará da Serra,57,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2024,Cáceres,51,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,58,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,53,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Cáceres,57,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Sorriso,21,15-24 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,37,35-44 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2024,Lucas do Rio Verde,43,35-44 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,35,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,65,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,24,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2024,Lucas do Rio Verde,22,15-24 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,65,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,25,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,65,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2024,Cáceres,18,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,31,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2024,Sinop,44,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Sinop,46,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,52,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2024,Cáceres,65,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2024,Barra do Garças,28,25-34 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,19,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Lucas do Rio Verde,22,15-24 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,64,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2024,Rondonópolis,48,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,30,25-34 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2024,Cuiabá,42,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2024,Cáceres,31,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2024,Tangará da Serra,17,15-24 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2024,Tangará da Serra,57,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2024,Primavera do Leste,34,25-34 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2025,Barra do Garças,44,35-44 anos,Arma Branca,Preta,FEMINICÍDIO CONSUMADO
+2025,Sorriso,17,15-24 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2025,Barra do Garças,51,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Sinop,34,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Cáceres,31,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Barra do Garças,47,45+ anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2025,Sinop,52,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2025,Barra do Garças,16,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Rondonópolis,42,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2025,Várzea Grande,39,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2025,Cuiabá,46,45+ anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2025,Cuiabá,32,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2025,Sinop,38,35-44 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,63,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,50,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,59,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2025,Várzea Grande,24,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Cuiabá,28,25-34 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2025,Sorriso,36,35-44 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,50,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Sinop,57,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Cuiabá,65,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Cáceres,39,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,40,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,47,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2025,Cáceres,62,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2025,Lucas do Rio Verde,27,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,21,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Cáceres,54,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,38,35-44 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2025,Barra do Garças,38,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Várzea Grande,19,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Rondonópolis,63,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,54,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,31,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Cuiabá,52,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2025,Tangará da Serra,39,35-44 anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2025,Rondonópolis,52,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2025,Sorriso,57,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2025,Rondonópolis,17,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2025,Várzea Grande,51,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,61,45+ anos,Arma de Fogo,Indígena,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,34,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2025,Primavera do Leste,20,15-24 anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2025,Várzea Grande,44,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,20,15-24 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2026,Rondonópolis,26,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Sinop,23,15-24 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2026,Cuiabá,47,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,39,35-44 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,21,15-24 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,61,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,52,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,57,45+ anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Tangará da Serra,49,45+ anos,Arma de Fogo,Preta,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,65,45+ anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2026,Cáceres,24,15-24 anos,Arma Branca,Branca,FEMINICÍDIO CONSUMADO
+2026,Rondonópolis,49,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Sinop,36,35-44 anos,Agressão Física,Preta,FEMINICÍDIO CONSUMADO
+2026,Sorriso,49,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,56,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,35,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,26,25-34 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,55,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Cuiabá,52,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,57,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,65,45+ anos,Asfixia,Branca,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,17,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,35,35-44 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2026,Cáceres,59,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Cuiabá,60,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,46,45+ anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2026,Tangará da Serra,25,25-34 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Cáceres,38,35-44 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,48,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,45,45+ anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,25,25-34 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,40,35-44 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Tangará da Serra,26,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,26,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,35,35-44 anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,41,35-44 anos,Asfixia,Preta,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,29,25-34 anos,Agressão Física,Parda,FEMINICÍDIO CONSUMADO
+2026,Primavera do Leste,34,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,16,15-24 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Tangará da Serra,32,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Cuiabá,41,35-44 anos,Arma de Fogo,Parda,FEMINICÍDIO CONSUMADO
+2026,Várzea Grande,34,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,64,45+ anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,55,45+ anos,Arma Branca,Parda,FEMINICÍDIO CONSUMADO
+2026,Cáceres,22,15-24 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Lucas do Rio Verde,37,35-44 anos,Agressão Física,Branca,FEMINICÍDIO CONSUMADO
+2026,Barra do Garças,28,25-34 anos,Asfixia,Parda,FEMINICÍDIO CONSUMADO
+2026,Cuiabá,18,15-24 anos,Arma de Fogo,Branca,FEMINICÍDIO CONSUMADO
