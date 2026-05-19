@@ -55,7 +55,7 @@ except Exception as e:
     
     random.seed(42) # Mantém os dados estáveis a cada execução
     for ano in anos:
-        # Número médio histórico de casos registrados por ano em MT varia entre 35 e 50
+       
         num_casos = random.randint(38, 52) 
         for _ in range(num_casos):
             idade = random.randint(16, 65)
@@ -80,4 +80,4 @@ except Exception as e:
 df.to_csv("dados_feminicidio_detalhado_mt.csv", index=False, encoding="utf-8-sig")
 print(f"\n--- Base de dados de 10 anos pronta! ---")
 print(f"Total de registros gerados: {len(df)} casos de violência (2016-2026).")
-print(df.sample(3)) # Amostra aleatória para checagem
+print(df.sample(3)) 
