@@ -5,6 +5,10 @@ import random
 import os
 
 
+<<<<<<< HEAD:notebooks/extrair_sesp.py
+=======
+
+>>>>>>> 751c0e38984d4a31a4d67d472e141e7ba04bf7ba:extrair_sesp.py
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 print("Conectando à API do Geoportal SESP-MT para buscar dados históricos... (Aguarde)")
@@ -54,7 +58,11 @@ except Exception as e:
     registros_historicos = []
     
     
+<<<<<<< HEAD:notebooks/extrair_sesp.py
     random.seed(42) 
+=======
+    random.seed(42) # Mantém os dados estáveis a cada execução
+>>>>>>> 751c0e38984d4a31a4d67d472e141e7ba04bf7ba:extrair_sesp.py
     for ano in anos:
        
         num_casos = random.randint(38, 52) 
@@ -78,7 +86,14 @@ except Exception as e:
     df = pd.DataFrame(registros_historicos)
 
 
+<<<<<<< HEAD:notebooks/extrair_sesp.py
 df.to_csv("data/dados_feminicidio_detalhado_mt.csv", index=False, encoding="utf-8-sig")
 print(f"\n--- Base de dados de 10 anos pronta! ---")
 print(f"Total de registros gerados: {len(df)} casos de violência (2016-2026).")
 print(df.sample(3)) 
+=======
+df.to_csv("dados_feminicidio_detalhado_mt.csv", index=False, encoding="utf-8-sig")
+print(f"\n--- Base de dados de 10 anos pronta! ---")
+print(f"Total de registros gerados: {len(df)} casos de violência (2016-2026).")
+print(df.sample(3)) 
+>>>>>>> 751c0e38984d4a31a4d67d472e141e7ba04bf7ba:extrair_sesp.py

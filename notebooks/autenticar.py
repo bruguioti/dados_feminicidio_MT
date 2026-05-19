@@ -2,12 +2,12 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 
-# Define a permissão necessária para acessar o BigQuery
+
 SCOPES = ['https://www.googleapis.com/auth/cloud-platform']
 
 def autenticar_google():
     print("Iniciando fluxo de autenticação...")
-    # Abre o fluxo de autenticação usando uma porta fixa para evitar problemas no Windows
+    
     flow = InstalledAppFlow.from_client_config(
         {
             "installed": {
@@ -19,7 +19,7 @@ def autenticar_google():
         scopes=SCOPES
     )
     
-    # Aqui forçamos o console a te dar o link sem travar o localhost
+    
     credentials = flow.run_local_server(port=8080, prompt='consent')
     
     print("\n[SUCESSO] Você foi autenticado!")
