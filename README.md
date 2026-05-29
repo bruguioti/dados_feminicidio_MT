@@ -17,7 +17,7 @@ O projeto faz parte de uma pesquisa em andamento que busca transformar dados bru
 O ecossistema de desenvolvimento foi construído majoritariamente em **Python**, utilizando as seguintes bibliotecas principais:
 * **Pandas / NumPy:** Para manipulação, limpeza e estruturação dos dados brutos.
 * **Matplotlib / Seaborn / Plotly:** Para a geração de gráficos estatísticos e visualizações interativas.
-* **Scikit-Learn** *(remover ou manter se aplicar)*: Para modelagem preditiva ou agrupamento de dados.
+* **Scikit-Learn**: Para modelagem preditiva ou agrupamento de dados.
 
 ##  Estrutura do Repositório
 
